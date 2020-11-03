@@ -1,0 +1,13 @@
+# GIT change notifications sent out by DLS Jenkins
+
+link=https://github.com/xia2/fp3
+commit_link=https://github.com/xia2/fp3/commit/%s
+branch=main
+
+sender=FP3 commit
+
+recipient=xia2.support
+recipient_domain=gmail.com
+
+replyto=xia2.support
+replyto_domain=gmail.com
